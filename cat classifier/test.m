@@ -1,4 +1,4 @@
-function setup34	
+function test	
 	path_to_dataset  = 'dataset/';
 	path_to_testset  = 'testset/';
 	no_of_tests = 2;
